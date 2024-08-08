@@ -1,23 +1,23 @@
-name = "id1g" # todo
+name = "id2r" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "id1g.cilukba.us.kg"
+pattern = "id2r.cilukba.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.id1g.cilukba.us.kg"
+pattern = "zaintest.vuclip.com.id2r.cilukba.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.id1g.cilukba.us.kg"
+pattern = "ava.game.naver.com.id2r.cilukba.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "graph.instagram.com.id1g.cilukba.us.kg"
+pattern = "graph.instagram.com.id2r.cilukba.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "openconnect.netflix.com.id1g.cilukba.us.kg"
+pattern = "openconnect.netflix.com.id2r.cilukba.us.kg"
 custom_domain = true
 
 [vars]
