@@ -1,23 +1,23 @@
-name = "ifog" # todo
+name = "aceville" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "ifog.cilukba.us.kg"
+pattern = "aceville.cilukba.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.ifog.cilukba.us.kg"
+pattern = "zaintest.vuclip.com.aceville.cilukba.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.ifog.cilukba.us.kg"
+pattern = "ava.game.naver.com.aceville.cilukba.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "graph.instagram.com.ifog.cilukba.us.kg"
+pattern = "graph.instagram.com.aceville.cilukba.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "openconnect.netflix.com.ifog.cilukba.us.kg"
+pattern = "openconnect.netflix.com.aceville.cilukba.us.kg"
 custom_domain = true
 
 [vars]
